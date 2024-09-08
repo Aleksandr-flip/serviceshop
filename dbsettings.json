@@ -2,6 +2,6 @@
 
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Data Source=sql6030.site4now.net;Initial Catalog=db_aa8564_shop;Persist Security Info=True;User ID=db_aa8564_shop_admin;Password=pwhlsx2m87fzb45;TrustServerCertificate=True"
+    "DefaultConnection": "Data Source=tcp:rgbserver.database.windows.net,1433;Initial Catalog=Shop;User Id=aleksandrflip@rgbserver;Password=5fn72hjzw4vtl8p@"
   }
 }
